@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Cyber Security Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/I-am-Dark-Shadow](https://github.com/I-am-Dark-Shadow)
+- 👨‍💻 All of my projects are available at [https://github.com/I-am-Dark-Shadow]
 
 - 💬 Ask me about **Hacking, Python**
 
