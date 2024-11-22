@@ -1,4 +1,4 @@
-![logo](https://github.com/I-am-Dark-Shadow/I-am-Dark-Shadow/blob/main/Black%20and%20Orange%20Spooky%20Halloween%20YouTube%20Thumbnail.jpg)
+![logo](https://github.com/I-am-Dark-Shadow/I-am-Dark-Shadow/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Dark Shadow</h1>
 <h3 align="center">A passionate Cyber Security</h3>
 <img align="right" alt="hacking" width="300" src="1744.gif">
