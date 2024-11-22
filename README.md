@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dark Shadow</h1>
 <h3 align="center">A passionate Cyber Security</h3>
-<img align="right" alt="hacking" width="300" src="1744.gif">
+<img align="right" alt="hacking" width="300" src="9e3dc44bced5bb5c0d9cc6f439500b02.gif">
 
 - 🔭 I’m currently working on **Cyber Security Projects**
 
